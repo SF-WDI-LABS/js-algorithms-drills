@@ -53,7 +53,7 @@ If an element on the left has met a larger or equal element, we look at its bigg
 
 Stop!
 
-We don't stop sorting until we hit the end.  Even if we find
+We don't stop sorting until we hit the end.  Even if we find an already sorted pair.
 
 #### Iteration 4
 
