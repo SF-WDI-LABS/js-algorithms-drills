@@ -34,7 +34,7 @@ function merge(left, right) {
   // if left is the only array with elements, push them all in
   while (left.length) {
       result.push(left.shift());
-  // if right is the only array with elmeents, push them all in
+  // if right is the only array with elements, push them all in
   }
   while (right.length) {
     result.push(right.shift());
