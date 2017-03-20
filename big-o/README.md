@@ -1,16 +1,16 @@
 # Big O Notation and Algorithm Analysis
 
-###What is an algorithm?
+### What is an algorithm?
 
 A set of instructions to find the solution to a problem.
 
 Note: we use code to *implement* algoritms, but algorithms don't have to be expressed in code. It's usually better to talk through or write out the general strategy of an algorithm before trying to code it.
 
-###What is efficiency?
+### What is efficiency?
 
 Time efficiency helps us predict how long it could take a particular algorithm to run. Space efficiency helps us predict how much memory a particular algorithm could use up.
 
-###Why study algorithms and efficiency?
+### Why study algorithms and efficiency?
 
 * Understanding algorithms let us reuse knowledge from the field.
 
@@ -21,7 +21,7 @@ Time efficiency helps us predict how long it could take a particular algorithm t
 * Algorithms and algorithm analysis are an important part of the shared language developers use to talk about programs (especially in **INTERVIEWS!**).
 
 
-##Big O notation
+## Big O notation
 
 ### Big O Intro 
 
@@ -96,7 +96,7 @@ The time complexity of `addAll` is `O(1) + n*O(1) + O(1)`, which simplifies to `
 See how the for loop acts like a multiplier for the O(1) operation(s) happening inside?  If the stuff inside the for loop required more time, like say if it were O(n), we'd still have to multiply. We'd get `O(1) + n*O(n) + O(1)` which would simplify to O(n<sup>2</sup>).
 
 
-####O(log(n)) or O(n*log(n))
+#### O(log(n)) or O(n*log(n))
 
 Logarithm terms in Big O notation usually come from recursive functions or scenarios where we use the "divide and conquer" approach. For interview prep purposes, some good rules of thumb are:
 
@@ -105,7 +105,7 @@ Logarithm terms in Big O notation usually come from recursive functions or scena
 
 
 
-####Combinations
+#### Combinations
 
 Almost everything else is composed of combinations of the times we've looked at so far. For example, if a for loop has more complex operations inside it, time complexity is usually higher.
 
