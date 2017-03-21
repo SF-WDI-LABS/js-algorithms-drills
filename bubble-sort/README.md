@@ -114,9 +114,9 @@ When there is **only one element** (the first element) left in our unsorted list
 
 #### Hints:
 
-<details><summary>
+
 If you want to swap two variables, a and b:
-</summary>
+
 ```javascript
 // bubbleSort.js  (you'll need to create this)
 
@@ -125,7 +125,7 @@ temp = a;
 a = b;
 b = temp;
 ```
-</details>
+
 
 You may use a conventional for loop.
 
