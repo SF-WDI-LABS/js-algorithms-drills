@@ -95,8 +95,7 @@ When there is **only one element** (the first element) left in our unsorted list
 
 
 <br>
-<br>
-![](http://cdn2.crunchify.com/wp-content/uploads/2013/01/BubbleSort-Algorithm-Crunchify.jpg)
+
 
 ## Challenge
 
