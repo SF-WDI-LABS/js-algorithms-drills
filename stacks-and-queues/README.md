@@ -27,6 +27,7 @@ Stacks are "Last In, First Out" -- the last item pushed on top of a stack will b
   * PUSH 8
 
   <details><summary>click for answer</summary>
+  
     ```
     * start     []
     * PUSH 0    [0]
@@ -37,6 +38,7 @@ Stacks are "Last In, First Out" -- the last item pushed on top of a stack will b
     * POP       [2, 4]
     * PUSH 8    [2, 4, 8]
     ```
+    
   </details>
 
 1. Stacks and queues are often implemented with linked lists. Think about how you'd use a linked list to make a stack.  Where will you put the "top" of the stack? How would you add something to the top the stack? How would you take something off?
@@ -78,7 +80,9 @@ Queues are "First In, First Out" -- the first item enqueued will be the first to
   * ENQUEUE 8
 
   <details><summary>click for answer...</summary>
+  
     ```
+    
     * start        []
     * ENQUEUE 0    [0]
     * DEQUEUE      []
@@ -87,7 +91,9 @@ Queues are "First In, First Out" -- the first item enqueued will be the first to
     * ENQUEUE 6    [2, 4, 6]
     * DEQUEUE      [4, 6]
     * ENQUEUE 8    [4, 6, 8]
+    
     ```
+    
   </details>
 
 
