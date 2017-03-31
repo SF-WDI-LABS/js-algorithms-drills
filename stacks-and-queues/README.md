@@ -111,7 +111,7 @@ Queues are "First In, First Out" -- the first item enqueued will be the first to
 
 ## Challenges
 
-####Design Decisions
+#### Design Decisions
 
 Would you use a stack or a queue to...
 
