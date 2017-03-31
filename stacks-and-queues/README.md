@@ -1,8 +1,8 @@
-#Data Structures: Stacks and Queues
+#D ata Structures: Stacks and Queues
 
 Stacks and queues are two commonly used data structures.  You can read about them below or watch [this video](https://www.youtube.com/watch?v=6QS_Cup1YoI). If you watch the video, note that all the operations mentioned take O(1) time.
 
-##Stacks
+## Stacks
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Data_stack.svg/2000px-Data_stack.svg.png" width="400px" alt="stack image with push and pop">
 
@@ -53,7 +53,7 @@ Stacks are "Last In, First Out" -- the last item pushed on top of a stack will b
 
 1. **Stretch:** How would you implement a stack with a fixed-size array?
 
-##Queues
+## Queues
 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Data_Queue.svg/2000px-Data_Queue.svg.png" width="400px" alt="queue image with enqueue and dequeue">
