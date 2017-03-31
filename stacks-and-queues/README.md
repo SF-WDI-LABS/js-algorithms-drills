@@ -1,4 +1,4 @@
-#D ata Structures: Stacks and Queues
+# Data Structures: Stacks and Queues
 
 Stacks and queues are two commonly used data structures.  You can read about them below or watch [this video](https://www.youtube.com/watch?v=6QS_Cup1YoI). If you watch the video, note that all the operations mentioned take O(1) time.
 
