@@ -4,4 +4,4 @@
 
 Example: in the array `[-2,-3,4,1,-1,-5,4]` the maximum contiguous subarray would be `[4,1]` and the returned result would be 5 because 4+1 = 5.
 
-If all numbers in the array are 0, you may return 0.
+If all numbers in the array are negative and/or 0, you may return 0.
