@@ -19,7 +19,7 @@ console.log(maxContigSubarray(testArr3));
 console.log(maxContigSubarray(testArr4));
 
 
-//Bonus solution
+//Bonus solution accounts for all-negative array
 
 
 function maxContigSubarray(arr) {
