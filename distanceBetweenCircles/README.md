@@ -4,7 +4,7 @@
 
 If the circles are overlapping or one circle is entirely within the other, return 0.
 
-<img src="circles.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="500" />
+<img src="circles.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="400" />
 
 Your input will two Circle objects in the following format:
 
