@@ -5,7 +5,7 @@
 If the circles are overlapping or one circle is entirely within the other, return 0.
 
 
-![circles.jpg](circles.jpg)
+![circles.jpg](circles.png)
 
 Your input will two Circle objects in the following format:
 
