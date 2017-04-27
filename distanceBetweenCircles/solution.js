@@ -32,4 +32,5 @@ var circle3 = {
 
 console.log(distanceBetweenCircles(circle1, circle2));//should be 3.0384048104052983
 console.log(distanceBetweenCircles(circle1, circle3)); //should be 0
+console.log(distanceBetweenCircles(circle2, circle3));//should be 2
 
