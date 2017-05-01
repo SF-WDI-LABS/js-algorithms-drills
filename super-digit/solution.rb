@@ -1,5 +1,5 @@
 
-def super_sum(num)
+def super_digit(num)
   length = num.num_digits
   unless length == 1
   number = num.to_s.split('').map(&:to_i).reduce(:+)

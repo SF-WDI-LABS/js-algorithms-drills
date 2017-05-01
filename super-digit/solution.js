@@ -1,4 +1,4 @@
-function superSum(num) {
+function digitalRoot(num) {
   return num.toString().split('').length === 1 ? num : superSum(sumAllDigits(num));
 }
 

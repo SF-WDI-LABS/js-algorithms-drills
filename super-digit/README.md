@@ -1,4 +1,4 @@
-A "SuperSum", also known as the proper name "digital root", is a non-negative integer calculated as follows:
+A "digital root", is a non-negative integer calculated as follows:
 
 * If the number only has one digit, the digital root is equal to that number.
 
