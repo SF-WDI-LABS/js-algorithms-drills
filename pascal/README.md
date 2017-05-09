@@ -5,4 +5,4 @@
 ![https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Pascal%27s_triangle_5.svg/540px-Pascal%27s_triangle_5.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Pascal%27s_triangle_5.svg/540px-Pascal%27s_triangle_5.svg.png)
 
 reference:
-[https://en.wikipedia.org/wiki/Pascal%27s_triangle](https://en.wikipedia.org/wiki/Pascal%27s_triangle)
+[wiki](https://en.wikipedia.org/wiki/Pascal%27s_triangle)
