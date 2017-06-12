@@ -1,5 +1,5 @@
 function digitalRoot(num) {
-  return num.toString().split('').length === 1 ? num : superSum(sumAllDigits(num));
+  return num.toString().split('').length === 1 ? num : digitalRoot(sumAllDigits(num));
 }
 
 
