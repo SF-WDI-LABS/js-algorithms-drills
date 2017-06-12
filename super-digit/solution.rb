@@ -3,7 +3,7 @@ def super_digit(num)
   length = num.num_digits
   unless length == 1
   number = num.to_s.split('').map(&:to_i).reduce(:+)
-  return super_sum(number)
+  return super_digit(number)
   end
   return num
 end
