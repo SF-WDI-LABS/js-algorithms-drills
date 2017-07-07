@@ -14,6 +14,7 @@ console.log(isWordAPalindrome("Blarg"));
 
 //alternate
 function isWordAPalindrome(input) {
+  input = input.toLowerCase();
   return input === input.split('').reverse().join('');
 }
 
