@@ -1,5 +1,8 @@
 # Longest Word in a Sentence
 
-Write two algorithms. One, `findLongestWordLength()`, will return the length of the longest word in a sentence. The other, `findLongestWord()`, will return the longest word in a sentence or the first instance of a word with the maximum length.
+Write two functions. One, `findLongestWordLength()`, will return the length of the longest word in a sentence. The other, `findLongestWord()`, will return the longest word in a sentence or the first instance of a word with the maximum length.
 
-Challenge: write an algorithm that will return an array of all of the instances of the word with the maximum length.
+Challenges:
+* write a function, `findLongestWords()` (notice the s!), that will return an array of all words in the sentence with the maximum length.
+* make sure that punctuation is not interfering with your word lengths. Only count alphabetical characters.
+* write a function, `orderByWordLength()`, that returns an array of all of the words in the sentence ordered by the length of the words, longest words first and shortest words last.
