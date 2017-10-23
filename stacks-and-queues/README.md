@@ -1,4 +1,4 @@
-# Data Structures: Stacks and Queues
+# Data Structures: Stacks & Queues
 
 Stacks and queues are two commonly used data structures.  You can read about them below or watch [this video](https://www.youtube.com/watch?v=6QS_Cup1YoI). If you watch the video, note that all the operations mentioned take O(1) time.
 
@@ -11,8 +11,6 @@ Stacks as a data structure are a lot like stacks as a physical structure. Think 
 Stacks are "Last In, First Out" -- the last item pushed on top of a stack will be the first thing popped off of the stack.  
 
 <img src="https://media.giphy.com/media/x5bZM4HAwr2mY/giphy.gif" alt="syrup on pancakes gif" width="400px">
-
-*Don't you dare `pop` from Jimmy's stack of pancakes.*
 
 ### Thinking with Stacks
 
