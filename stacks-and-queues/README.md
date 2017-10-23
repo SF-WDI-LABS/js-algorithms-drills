@@ -125,7 +125,7 @@ Would you use a stack or a queue to...
 
 1. ... let users create playlists and play back the songs?
 
-1. ... display *only* the 10 most recent messages a user posted, in the order they were posted?
+1. ... display *only* the 10 most recent websites a user has visited, with the most recently visited at the top of the list
 
 
 #### Stacks
