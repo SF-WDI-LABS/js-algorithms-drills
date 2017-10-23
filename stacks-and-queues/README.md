@@ -10,7 +10,7 @@ Stacks as a data structure are a lot like stacks as a physical structure. Think 
 
 Stacks are "Last In, First Out" -- the last item pushed on top of a stack will be the first thing popped off of the stack.  
 
-<img src="http://stratton.d11.org/PublishingImages/kid%20with%20pancakes.gif" alt="child defending stack of pancakes using fork and knife" width="400px">
+<img src="https://media.giphy.com/media/x5bZM4HAwr2mY/giphy.gif" alt="syrup on pancakes gif" width="400px">
 
 *Don't you dare `pop` from Jimmy's stack of pancakes.*
 
