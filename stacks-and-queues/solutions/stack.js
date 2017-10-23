@@ -9,6 +9,7 @@ export default class {
     }
     push(item) {
         this.data.push(item);
+        return this;
     }
     pop() {
         return this.data.pop();
@@ -18,5 +19,6 @@ export default class {
     }
     clear() {
         this.data = [];
+        return this;
     }
 }
