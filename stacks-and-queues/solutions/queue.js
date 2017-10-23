@@ -19,5 +19,6 @@ export default class {
     }
     clear() {
         this.data = [];
+        return this;
     }
 }
