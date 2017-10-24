@@ -1,5 +1,11 @@
 export default class {
-    constructor() {
+    constructor(seedData) {
+        this.data = [];
+        if (seedData) {
+          for (const datum of seedData) {
+            this.enqueue(datum);
+          }
+        }
     }
     enqueue(item) {
     }
