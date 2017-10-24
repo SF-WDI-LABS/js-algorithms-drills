@@ -51,7 +51,7 @@ Stacks are "Last In, First Out" -- the last item pushed on top of a stack will b
  > The "top" could be the end of the array, and you could use array methods `push` and `pop`.  Thanks, JavaScript!
  </details>
 
-1. **Stretch:** How would you implement a stack with a fixed-size array?
+1. **Stretch:** How would you implement a stack with a fixed-size array? (<a href="https://stackoverflow.com/questions/33725821/why-would-one-implement-a-stack-using-a-fixed-length-array-instead-of-a-variable">Why would you want to do this?</a>)
 
 ## Queues
 
@@ -154,7 +154,7 @@ Would you use a stack or a queue to...
  
  Write out the full call stack for `factorial(3)` at each step in the function's execution.
 
-1. **Stretch:** Try out [this stack challenge](stacks-challenge.md), an epic battle for correct code!
+1. **Stretch:** Try out [this stack challenge](parenthesis-battle.md), an epic battle for correct code!
 
 #### Queues
 
@@ -166,4 +166,4 @@ Would you use a stack or a queue to...
  
  Describe how you would use a queue help the chef keep track of meals to make.  What should the chef do when the queue is empty?
 
-1. **Stretch:** Try out [this queue challenge](queues-challenge.md) to calculate the total price of a purchase. 
+1. **Stretch:** Try out [this queue challenge](pricing.md) to calculate the total price of a purchase. 
