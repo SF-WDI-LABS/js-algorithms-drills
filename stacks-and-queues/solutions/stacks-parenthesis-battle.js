@@ -42,7 +42,7 @@ sampleRuns = [
 
 sampleRuns.forEach(function(run){
   console.log('Battle! ', run.input);
-  var actual = battleForCode(run.input);
+  var actual = parenthesisBattle(run.input);
   console.log('  expected:', run.expected);
   console.log('  actual:', actual);
   if (actual === run.expected){
