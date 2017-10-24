@@ -21,4 +21,7 @@ export default class {
         this.data = [];
         return this;
     }
+    length() {
+        return this.data.length;
+    }
 }
