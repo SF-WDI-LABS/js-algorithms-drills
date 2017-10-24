@@ -154,7 +154,7 @@ Would you use a stack or a queue to...
  
  Write out the full call stack for `factorial(3)` at each step in the function's execution.
 
-1. **Stretch:** Try out [this stack challenge](parenthesis-battle.md), an epic battle for correct code!
+1. **Stretch:** Try out [this stack challenge](stacks-parenthesis-battle.md), an epic battle for correct code!
 
 #### Queues
 
@@ -166,4 +166,4 @@ Would you use a stack or a queue to...
  
  Describe how you would use a queue help the chef keep track of meals to make.  What should the chef do when the queue is empty?
 
-1. **Stretch:** Try out [this queue challenge](pricing.md) to calculate the total price of a purchase. 
+1. **Stretch:** Try out [this queue challenge](queues-pricing.md) to calculate the total price of a purchase. 
