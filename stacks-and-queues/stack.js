@@ -7,14 +7,24 @@ module.exports = class {
       }
     }
   }
+  
   push(item) {
+    
   }
+  
   pop() {
+    
   }
+  
   peek() {
+    
   }
+  
   clear() {
+    
   }
+  
   length() {
+    
   }
 }
