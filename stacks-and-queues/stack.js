@@ -1,5 +1,6 @@
 export default class {
     constructor() {
+        this.data = [];
     }
     push(item) {
     }
@@ -8,5 +9,7 @@ export default class {
     peek() {
     }
     clear() {
+    }
+    length() {
     }
 }
